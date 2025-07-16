@@ -21,7 +21,7 @@ Bu uygulama, muhasebe süreçlerini kolaylaştırmak ve manuel işlemleri minimu
 
 - **Mendix Studio Pro** (Low-code geliştirme)
 - **Email Connector** (SMTP üzerinden e-posta gönderimi)
-- **PDF Document Generation** (Document Template ile dinamik PDF)
+- **PDF Document Generation** (PDF Document Generation ile dinamik PDF)
 - **Encryption** (Veri güvenliği için şifreleme)
 - **Mx Model Reflection** (Dinamik veri yapıları ve roller)
 - **Document Viewer** (Kullanıcı arayüzünde belge önizleme)
